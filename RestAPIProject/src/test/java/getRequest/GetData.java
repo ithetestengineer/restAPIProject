@@ -29,10 +29,10 @@ public class GetData {
 		System.out.println("Response time" +resp.getTime());
 	}
 	
-	@Test
+	/*@Test
 	public void testResponseEdit() {
 		int code = get("https://www.google.com/").getStatusCode();
 		System.out.println("Status code is" +code);
 		
-	}
+	}*/
 }
